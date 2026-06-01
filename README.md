@@ -89,7 +89,7 @@ I am a passionate **Artificial Intelligence and Data Science** undergraduate stu
 - 📝 **Paper Publication**: Co-author of the IEEE research paper published at **IEEE ICCCIT-2025** (IPS Academy).
 - 🏆 **Coding Profiles**:
   - **HackerRank**: C Programming 🌟🌟🌟🌟🌟 (5 Star) | Java &amp; Python 🌟🌟🌟🌟 (4 Star)
-  - **LeetCode**: **1,479** Contest Rating | **200+** Solved Problems
+  - **LeetCode**: [**1,479** Contest Rating | **200+** Solved Problems](https://leetcode.com/u/YuvanShankar-2005/)
   - **Skill Rack**: **500+** Problems Solved
 
 ---
@@ -132,8 +132,8 @@ I am a passionate **Artificial Intelligence and Data Science** undergraduate stu
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/Yuvanshankar31">
-    <img src="https://leetcard.jacoblin.cool/Yuvanshankar31?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats Card" />
+  <a href="https://leetcode.com/u/YuvanShankar-2005/">
+    <img src="https://leetcard.jacoblin.cool/YuvanShankar-2005?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats Card" />
   </a>
 </p>
 
