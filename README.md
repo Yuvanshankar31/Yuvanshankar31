@@ -6,11 +6,13 @@
 <!-- GREETING & INTRO -->
 <div align="center">
   <h1>👋 Hello World! I'm Yuvan Shankar S</h1>
-  <p>🚀 Artificial Intelligence &amp; Data Science Student | Tech Enthusiast | Aspiring Machine Learning Engineer</p>
+  <p>🚀 <b>B.Tech AI &amp; Data Science Student</b> at <b>Sri Eshwar College of Engineering</b></p>
+  <p>💻 Full Stack Developer | Aspiring AI &amp; MLOps Engineer | IEEE Paper Co-Author</p>
   
   <p>
-    <a href="mailto:yuvanshankar.s2023ai-ds@sece.ac.in"><img src="https://img.shields.io/badge/Email-yuvanshankar.s2023ai--ds%40sece.ac.in-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/yuvanshankar31"><img src="https://img.shields.io/badge/LinkedIn-Yuvan%20Shankar%20S-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:sksyuvanshankar@gmail.com"><img src="https://img.shields.io/badge/Email-sksyuvanshankar%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/yuvanshankar31"><img src="https://img.shields.io/badge/LinkedIn-Yuvan%20Shankar%20S-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/Yuvanshankar31"><img src="https://img.shields.io/badge/GitHub-Yuvanshankar31-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
@@ -18,50 +20,103 @@
 
 ## 🌌 About Me
 
-I am a passionate **Artificial Intelligence and Data Science** student at **Sri Eshwar College of Engineering (SECE)**. I love exploring complex datasets, designing intelligent systems, and building highly polished software solutions. I am constantly learning and implementing state-of-the-art techniques to bridge the gap between complex data and real-world intelligence.
+I am a passionate **Artificial Intelligence and Data Science** undergraduate student at **Sri Eshwar College of Engineering (SECE)**. I build highly responsive and scalable full-stack applications (MERN / Next.js) and orchestrate state-of-the-art AI/ML pipelines (YOLO, Scikit-Learn, PyTorch). I love solving algorithm challenges, designing smart cloud-based optimization platforms, and exploring advanced data intelligence.
 
-- 🎓 Currently pursuing my **B.Tech in Artificial Intelligence &amp; Data Science**.
-- 💡 Interested in **Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision**.
-- 🛠️ Actively building projects that leverage predictive modeling and visual analytics.
-- 🌱 Exploring modern cloud services, automated MLOps pipelines, and scalable APIs.
-
----
-
-## 🛠️ My Tech Stack
-
-### 💻 Languages &amp; Core
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### 🧠 Machine Learning &amp; Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-### 🔧 Tools, Platforms &amp; Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+- 🎓 **Education**: Pursuing my B.Tech in AI &amp; DS (2023 - 2027) with a current **CGPA of 7.6** (up to 5th Sem).
+- 🔬 **Research**: Published co-authored paper at **IEEE ICCCIT-2025** at IPS Academy.
+- ⚡ **Competitive Coding**: Solved **500+ problems** on Skill Rack and **200+ problems** on LeetCode.
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Professional Experience &amp; Internships
 
-<!-- Set your GitHub username below by replacing Yuvanshankar31 -->
+### 🔹 Modern Full Stack Development | **Algo Tutor** _(2025)_
+> Gained hands-on experience in **MongoDB, Express.js, React.js, and Next.js** by building scalable full-stack web applications. Specialized in both client-side and server-side development, leveraging Next.js for high-performance, user-friendly solutions.
+
+### 🔹 MERN Stack Development | **Connect Training Solution** _(2025)_
+> Hands-on experience building web apps using React and Express. Gained practical experience in debugging, API development, and deployment using version control tools like Git and GitHub.
+
+---
+
+## 🚀 Key Projects
+
+<details open>
+<summary><b>🛠️ Full-Stack &amp; AI Platform Highlights (Click to collapse/expand)</b></summary>
+<br />
+
+#### 🧠 **Cost-Aware AI Training Infrastructure Optimization System**
+- **Description**: An advanced AI-driven orchestration platform that intelligently predicts, analyzes, and minimizes cloud-based deep learning training costs by leveraging real-time multi-cloud pricing data and machine learning models.
+- **Tech Stack**: `React` `Vite` `Tailwind CSS` `FastAPI` `SQLite` `Scikit-Learn`
+- **Status**: 🚀 Active
+
+#### 🛡️ **Kortex (AI-Finance Platform)**
+- **Description**: A full-stack financial management platform using Clerk authentication. Features include smart receipt scanner, budget planning, advanced scanning, and advanced visual analytics.
+- **Tech Stack**: `Next.js` `Tailwind CSS` `Supabase` `Prisma` `Shadcn UI` `Clerk`
+- **Status**: 🚀 Active
+
+#### 🛍️ **Outlook (Shopping Platform)**
+- **Description**: A full-fledged e-commerce platform developed for a clothing brand. Includes secure user authentication, product catalog, interactive shopping cart, Stripe checkout process, and order management admin panels.
+- **Tech Stack**: `React.js` `Node.js` `Express.js` `MongoDB` `Stripe`
+- **Status**: ✅ Completed
+
+#### 🦌 **Image Recognition for Wildlife Conservation**
+- **Description**: Developed real-time image recognition using Ultralytics YOLO to detect animal species from camera trap images, aiding wildlife monitoring and conservation efforts. Integrated automated data processing to maximize detection accuracy.
+- **Tech Stack**: `YOLO v8` `Image Processing` `Machine Learning` `Python`
+- **Status**: ✅ Completed
+
+</details>
+
+---
+
+## 🛠️ Skills &amp; Competencies
+
+| Category | Technologies |
+| :--- | :--- |
+| **💻 Programming Languages** | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> |
+| **🌐 Web Development** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> |
+| **🧠 Data Science &amp; AI** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black"/> `YOLO V8` `Scikit-Learn` |
+| **🗄️ Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> |
+| **🛠️ Tools &amp; Utilities** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> `Power BI` `Canva` `Excel` |
+| **📚 Core Concepts** | `Data Structures & Algorithms (DSA)` `Database Management (DBMS)` `Object-Oriented Programming (OOP)` |
+
+---
+
+## 🏆 Achievements &amp; Publications
+
+- 🥇 **Code Fiesta**: Won **1st Prize** at Sri Eshwar College of Engineering.
+- 🚀 **Freshathon**: Secured **4th Place** among 110 competing teams at SECE.
+- 🎨 **Mini Project Expo**: Secured **5th Place** at Sri Eshwar College of Engineering.
+- 📝 **Paper Publication**: Co-author of the IEEE research paper published at **IEEE ICCCIT-2025** (IPS Academy).
+- 🏆 **Coding Profiles**:
+  - **HackerRank**: C Programming 🌟🌟🌟🌟🌟 (5 Star) | Java &amp; Python 🌟🌟🌟🌟 (4 Star)
+  - **LeetCode**: **1,479** Contest Rating | **200+** Solved Problems
+  - **Skill Rack**: **500+** Problems Solved
+
+---
+
+## 📜 Certifications
+
+- 🎓 **Machine Learning** — Coursera (2025)
+- 🖥️ **Python Basic** — HackerRank (2025)
+- 🛠️ **C Programming** — Udemy (2024)
+- 📊 **Data Structures and Algorithms** — Udemy (2024)
+- 🌐 **Web Development** — Coursera (2024)
+- ☕ **Java Programming** — Udemy (2024)
+
+---
+
+## 🎓 Education Timeline
+
+| Institution | Degree / Certificate | Score | Timeline |
+| :--- | :--- | :--- | :--- |
+| **Sri Eshwar College of Engineering** | B.Tech in Artificial Intelligence &amp; Data Science | **7.6 CGPA** (up to 5th Sem) | 2023 - 2027 |
+| **SRV BOYS Hr Sec School** | HSC (12th Grade) | **81.2%** | 2021 - 2023 |
+| **Afflatus Global School** | SSLC (10th Grade) | **95.5%** | 2020 - 2021 |
+
+---
+
+## 📊 Live Metrics &amp; Contribution Stats
+
 <p align="center">
   <a href="https://github.com/Yuvanshankar31">
     <img src="https://github-readme-stats.vercel.app/api?username=Yuvanshankar31&show_icons=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&accent_color=c084fc&border_color=1e293b&border_radius=8" alt="GitHub Stats" height="195" />
@@ -71,26 +126,19 @@ I am a passionate **Artificial Intelligence and Data Science** student at **Sri 
   </a>
 </p>
 
+### 📈 Coding Metrics &amp; Contribution Graph
 <p align="center">
-  <a href="https://github.com/Yuvanshankar31">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvanshankar31&background=0f172a&title=38bdf8&currStreakLabel=a78bfa&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&ring=818cf8&fire=c084fc&stroke=1e293b&border_radius=8" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvanshankar31&bg_color=0f172a&color=38bdf8&line=818cf8&point=c084fc&area=true&hide_border=false" alt="Yuvan Shankar S's Contribution Graph" width="800" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Yuvanshankar31">
+    <img src="https://leetcard.jacoblin.cool/Yuvanshankar31?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats Card" />
   </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-Here are some highlights of what I've been building:
-
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| **🧠 Deep-Vision Classifier** | Real-time computer vision classifier built on PyTorch using convolutional networks. | `PyTorch` `OpenCV` `Python` | 🚀 Active |
-| **📊 Smart Analytics Dashboard** | Scalable exploratory data analysis tool with interactive visual insights. | `Pandas` `Plotly` `Streamlit` | 🛠️ In-Dev |
-| **🔍 Predictive Sales Analytics** | Machine learning pipelines forecasting multi-region customer demands. | `Scikit-Learn` `SQL` `Docker` | ✅ Completed |
-
----
-
 <div align="center">
-  <p>🎨 Profile designed by <a href="https://github.com/google-deepmind/antigravity">Antigravity AI</a> | 🌟 Keep coding, keep shining!</p>
+  <p>🎨 Premium Profile designed by <a href="https://github.com/google-deepmind/antigravity">Antigravity AI</a> | 🌟 Keep coding, keep shining!</p>
 </div>
