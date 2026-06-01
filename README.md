@@ -13,6 +13,8 @@
     <a href="mailto:sksyuvanshankar@gmail.com"><img src="https://img.shields.io/badge/Email-sksyuvanshankar%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://linkedin.com/in/yuvanshankar31"><img src="https://img.shields.io/badge/LinkedIn-Yuvan%20Shankar%20S-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/Yuvanshankar31"><img src="https://img.shields.io/badge/GitHub-Yuvanshankar31-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://x.com/Yu_van_Shankar"><img src="https://img.shields.io/badge/X-Yu__van__Shankar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://www.instagram.com/_yuvan._.shankar?igsh=MWYycjd0amxpOXNibQ=="><img src="https://img.shields.io/badge/Instagram-__yuvan.__.shankar-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 </div>
 
