@@ -137,8 +137,4 @@ I am a passionate **Artificial Intelligence and Data Science** undergraduate stu
   </a>
 </p>
 
----
 
-<div align="center">
-  <p>🎨 Premium Profile designed by <a href="https://github.com/google-deepmind/antigravity">Antigravity AI</a> | 🌟 Keep coding, keep shining!</p>
-</div>
