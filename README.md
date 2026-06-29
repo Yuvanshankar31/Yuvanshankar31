@@ -7,7 +7,7 @@
 <div align="center">
   <h1>👋 Hello World! I'm Yuvan Shankar S</h1>
   <p>🚀 <b>B.Tech AI &amp; Data Science Student</b> at <b>Sri Eshwar College of Engineering</b></p>
-  <p>💻 Full Stack Developer | Aspiring AI &amp; MLOps Engineer | IEEE Paper Co-Author</p>
+  <p>💻 Full Stack Developer | Aspiring AI &amp; ML Engineer | IEEE Paper Co-Author</p>
   
   <p>
     <a href="mailto:sksyuvanshankar@gmail.com"><img src="https://img.shields.io/badge/Email-sksyuvanshankar%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
